@@ -194,4 +194,5 @@ body {
     #slide4:checked ~ .slider-text .slider-text_description {
         transform: translateX(-1200px);
     }
+    
 }
