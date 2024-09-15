@@ -141,6 +141,7 @@ body {
     background-color: #4f8730;
 }
 
+/*mobile*/
 
 @media screen and (max-width: 650px) {
     .slider-text_description {
